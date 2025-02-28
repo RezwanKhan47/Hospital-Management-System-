@@ -1,16 +1,63 @@
-# hospital_managment_system
 
-A new Flutter project.
+# Hospital Management System App
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+The Hospital Management System App is designed to streamline healthcare services by providing a platform for patients to easily access hospital information, request ambulance services, schedule appointments, and communicate with healthcare providers. It also offers administrative features for hospital staff to manage appointments, add new doctors, and view appointment schedules.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Request ambulance services
+- Search for hospitals based on location and specialties
+- Schedule, modify, and cancel appointments with doctors
+- View hospital and doctor details including contact information
+- Add new doctors to the system
+- View and confirm appointment schedules
+- Secure login for both patients and administrators to access respective features
+
+
+## Technologies Used
+
+**Fronted:** Dart
+
+**Backend:** PHP
+
+**Database:** MySQL
+
+## Installation 
+
+To install packages 
+
+```bash
+  npm install   
+
+```
+
+```bash
+  pip install -r requirements.txt  
+
+```
+
+## Run App 
+
+To Run the App
+
+```bash
+  flutter run 
+
+```
+
+## License
+
+
+
+This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License - see the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
+## 🚀 Contact 
+For any issues about this project
+
+
+
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezwan-khan-9a1a0b255/)
+
+
